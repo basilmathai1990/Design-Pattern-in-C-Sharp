@@ -1,0 +1,23 @@
+Quick setup — if you’ve done this kind of thing before
+------------------------------------------------------
+
+https://github.com/basilmathai1990/Design-Pattern-in-C-Sharp.git
+
+
+create a new repository on the command line
+------------------------------------------------------
+
+echo "# Design-Pattern-in-C-Sharp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/basilmathai1990/Design-Pattern-in-C-Sharp.git
+git push -u origin master
+
+
+
+push an existing repository from the command line
+------------------------------------------------------
+
+git remote add origin https://github.com/basilmathai1990/Design-Pattern-in-C-Sharp.git
+git push -u origin master
